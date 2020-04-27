@@ -1,2 +1,2 @@
 # Omnifood
-Practice website for learning HTML5&amp;CSS3 
+Practice website for learning HTML5 &amp; CSS3. Coded along as part of the Udemy course "Build Responsive Real World Websites with HTML5 and CSS3."
